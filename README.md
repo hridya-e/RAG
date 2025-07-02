@@ -1,1 +1,1 @@
-# misiformation Detection using RAG and Agentic RAG
+# Misiformation Detection using RAG and Agentic RAG
